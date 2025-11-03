@@ -1,2 +1,8 @@
 print("Hello, World!")
-print("This is the home page of the Learn GitHub project.")
+<<<<<<< HEAD
+=======
+a = 5
+b = 10
+c = 15
+print("Sum:", a + b + c)
+>>>>>>> home
